@@ -14,8 +14,9 @@ public class Program {
         //Seller seller = new Seller(21, "Bob", "bob@gmail.com", new Date(),3000.0, obj);
 
         SellerDAO sellerDAO = DAOFactory.CreateSellerDAO();
-        Seller seller = sellerDAO.FindByID(3);
 
+        System.out.println("=== TEST 1: Seller findById ===");
+        Seller seller = sellerDAO.FindByID(3);
         System.out.println(seller);
     }
 }

@@ -8,7 +8,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Model/DAO/Impl/SellerDAOJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/DAO/Impl/SellerDAOJDBC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/DAO/SellerDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/DAO/SellerDAO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
